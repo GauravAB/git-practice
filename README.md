@@ -1,1 +1,3 @@
-I will fill this out lat
+#build instruction
+gcc -o program_name 
+
