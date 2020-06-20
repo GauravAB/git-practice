@@ -1,4 +1,2 @@
-#Welcome to my project 
-
-build with gcc only
+gcc -o program_name 
 
